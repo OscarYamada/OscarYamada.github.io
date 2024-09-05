@@ -8,13 +8,13 @@
 }
 
 *::selection {
-    background: rgba(25, 13, 204, 0.744);
-    color: #1f242d;
+    background: #9B3922;
+    color: #0C0C0C;
 }
 
 body {
-    background: #1f242d;
-    color: #fff;
+    background: #0C0C0C;
+    color: #F2613F;
 }
 
 .header {
@@ -32,7 +32,7 @@ body {
 
 .logo {
     font-size: 25px;
-    color: #fff;
+    color: #F2613F;
     text-decoration: none;
     font-weight: 600;
     cursor: default;
@@ -43,7 +43,7 @@ body {
 .navbar a {
     display: inline-block;
     font-size: 18px;
-    color: #fff;
+    color: #F2613F;
     text-decoration: none;
     font-weight: 500;
     margin-left: 35px;
@@ -55,7 +55,7 @@ body {
 
 .navbar a:hover,
 .navbar a.active {
-    color: rgba(25, 13, 204, 0.744);
+    color: #9B3922;
 }
 
 .home {
@@ -87,7 +87,7 @@ body {
 }
 
 .home-content h3 span {
-    color: rgba(25, 13, 204, 0.744);
+    color: #9B3922;
 }
 
 .home-content h1 {
@@ -121,10 +121,10 @@ body {
     width: 40px;
     height: 40px;
     background: transparent;
-    border: 2px solid rgba(25, 13, 204, 0.744);
+    border: 2px solid #9B3922;
     border-radius: 50%;
     font-size: 20px;
-    color: rgba(25, 13, 204, 0.744);
+    color: #9B3922;
     text-decoration: none;
     margin: 30px 15px 30px 0;
     transition: .5s ease;
@@ -134,19 +134,19 @@ body {
 }
 
 .social-media a:hover {
-    background: rgba(25, 13, 204, 0.744);
-    color: #1f242d;
-    box-shadow: 0 0 20px rgba(25, 13, 204, 0.744);
+    background: #9B3922;
+    color: #0C0C0C;
+    box-shadow: 0 0 20px #9B3922;
 }
 
 .btn {
     display: inline-block;
     padding: 12px 28px;
-    background: rgba(25, 13, 204, 0.744);
+    background: #9B3922;
     border-radius: 40px;
-    box-shadow: 0 0 10px rgba(25, 13, 204, 0.744);
+    box-shadow: 0 0 10px #9B3922;
     font-size: 16px;
-    color: #1f242d;
+    color: #0C0C0C;
     letter-spacing: 1px;
     text-decoration: none;
     font-weight: 600;
