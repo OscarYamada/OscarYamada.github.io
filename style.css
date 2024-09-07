@@ -114,6 +114,10 @@ body {
     animation-delay: 2s, 3s;
 }
 
+.multiple-text {
+    color: #9B3922;
+}
+
 .social-media a {
     display: inline-flex;
     justify-content: center;
