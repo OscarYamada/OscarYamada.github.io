@@ -1,1 +1,0 @@
-# OscarYamada.github.io
